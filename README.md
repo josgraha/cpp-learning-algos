@@ -1,7 +1,10 @@
 # Learning STL Algoritms
 
 ## Description
-This is a C++ project to learn the STL algorithms header.  Based off the boilerplate Google Test and Cmake (http://cmake.org)
+This is a C++ project to learn the STL algorithms header.  Based off the boilerplate Google Test and [Cmake](http://cmake.org)
+
+This project was cloned from [Google Test Examples](https://github.com/snikulov/google-test-examples)
+
 
 ## How to build
 
